@@ -1,0 +1,28 @@
+.mihistoria {
+  margin: 0;
+  padding: 0;
+  top: 0;
+}
+
+.myname {
+  color: #84047e;
+  font-family: "Open Sans", sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  justify-content: center;
+}
+
+.date {
+  font-weight: bold;
+  font-size: large;
+}
+
+.App-mystory-actions {
+  margin: 4rem 0;
+  display: flex;
+  justify-content: center;
+}
+
+.App-mystory-actions .action-button {
+  margin: 0 1rem;
+}

@@ -1,0 +1,51 @@
+.registertitle {
+  margin: 0;
+  padding: 0;
+  top: 0;
+}
+
+.name {
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+  color: #84047e;
+  width: 30%;
+  height: 50px;
+  text-align: center;
+  text-emphasis-color: #84047e;
+  font-size: 15px;
+}
+
+.mail {
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+  color: #84047e;
+  width: 30%;
+  height: 50px;
+  text-align: center;
+  text-emphasis-color: #84047e;
+}
+
+.password {
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+  color: #84047e;
+  width: 30%;
+  height: 50px;
+  text-align: center;
+  text-emphasis-color: #84047e;
+}
+
+textarea:focus,
+input:focus,
+input[type]:focus {
+  border-color: #84047e;
+  border-width: 4px;
+  outline: 0 none;
+}
+
+::placeholder {
+  color: #84047e;
+}

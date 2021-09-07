@@ -1,0 +1,43 @@
+.votes {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  font-family: "Open Sans", sans-serif;
+  color: #84047e;
+  margin-right: 5px;
+}
+
+.votes p {
+  margin: 0;
+}
+
+.heart {
+  width: 2rem;
+  height: 2rem;
+  font-size: 0;
+  border: 0;
+  background-color: transparent;
+  margin-right: 5px;
+}
+
+.heart.full {
+  background-image: url(./assets/img/corazon1.png);
+}
+
+.heart.empty {
+  background-image: url(./assets/img/corazon0.png);
+}
+
+.total {
+  font-size: 1.5rem;
+  font-weight: bold;
+
+  line-height: 0;
+  margin-left: 0.5rem;
+}
+
+.voters {
+  width: 100%;
+  text-align: center;
+}

@@ -1,0 +1,24 @@
+.explorerandom {
+  margin: 0;
+  padding: 0;
+  top: 0;
+}
+
+.randomstories {
+  display: flex;
+  flex-direction: row;
+  padding-top: 40px;
+}
+
+.cajas {
+  display: block;
+  justify-content: center;
+  width: 525px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+  margin: 40px;
+  padding: 40px;
+  float: right;
+  text-align: center;
+  border-radius: 10px;
+  height: 160px;
+}

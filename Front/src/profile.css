@@ -1,0 +1,62 @@
+.profile input {
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: block;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+  color: #84047e;
+  width: 100%;
+}
+
+.deleteuser {
+  background-color: #84047e;
+  padding: 12px;
+  border-radius: 15px;
+  border: 1px solid #ccc;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+}
+.changepassword {
+  background-color: #84047e;
+  padding: 12px;
+
+  border-radius: 15px;
+  border: 1px solid #ccc;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+}
+
+.App-profile-data {
+  display: flex;
+}
+
+.App-profile-data .avatar-form,
+.App-profile-data .profile-form {
+  width: 50%;
+}
+
+.App-profile-data > div > form {
+  width: 75%;
+  margin: 0 auto;
+}
+
+.App-profile-data .avatar-form .avatar {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 1rem auto;
+}
+
+.App-profile-actions {
+  margin: 4rem 0;
+  display: flex;
+  justify-content: center;
+}
+
+.App-profile-actions .action-button {
+  margin: 0 1rem;
+}

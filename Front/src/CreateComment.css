@@ -1,0 +1,14 @@
+.App-createcomment-actions {
+  margin: 4rem 0;
+  display: flex;
+  justify-content: center;
+}
+
+.App-createcomment-actions .action-button {
+  margin: 0 1rem;
+}
+
+.App-createcomment-data > div > form {
+  width: 75%;
+  margin: 0 auto;
+}

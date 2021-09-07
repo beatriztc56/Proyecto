@@ -1,0 +1,20 @@
+.listahistorias {
+  margin: 0;
+  padding: 0;
+  top: 0;
+}
+
+.historias {
+  color: #84047e;
+  text-decoration: none;
+}
+
+.App-viewstories-actions {
+  margin: 4rem 0;
+  display: flex;
+  justify-content: center;
+}
+
+.App-createstory .action-button {
+  margin: 0 1rem;
+}

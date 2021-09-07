@@ -1,0 +1,40 @@
+.createstory {
+  margin: 0;
+  padding: 0;
+  top: 0;
+  justify-content: center;
+}
+
+.createtitle {
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+  color: #84047e;
+  width: 30%;
+  height: 50px;
+  text-align: center;
+  text-emphasis-color: #84047e;
+  display: block;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.createbody {
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+  color: #84047e;
+  width: 30%;
+  height: 200px;
+  text-align: center;
+  text-emphasis-color: #84047e;
+}
+.App-createstory-actions {
+  margin: 4rem 0;
+  display: flex;
+  justify-content: center;
+}
+
+.App-createstory-actions .action-button {
+  margin: 0 1rem;
+}

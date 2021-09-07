@@ -1,0 +1,47 @@
+.storieshome {
+  display: flex;
+  justify-content: center;
+}
+
+.cajas {
+  display: block;
+  width: 525px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+  margin: 40px;
+  padding: 40px;
+  float: right;
+  text-align: center;
+  border-radius: 10px;
+  height: 160px;
+}
+.historias {
+  display: block;
+  width: 500px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+  margin: 40px;
+  padding: 40px;
+  text-align: center;
+  border-radius: 10px;
+  height: 160px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.titulo {
+  color: #84047e;
+  text-decoration: none;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+}
+
+.title {
+  text-decoration: none;
+  font-weight: bold;
+  font-size: large;
+}
+
+.body {
+  color: #84047e;
+  font-family: "Open Sans", sans-serif;
+  font-size: small;
+}

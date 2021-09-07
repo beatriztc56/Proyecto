@@ -1,0 +1,14 @@
+.UploadImage {
+  margin-top: 30px;
+}
+
+.textimage {
+  font-family: "Open Sans" sans-serif;
+  font-size: medium;
+  color: #84047e;
+  font-weight: bold;
+}
+
+.buttonEnviar {
+  text-decoration: none;
+}

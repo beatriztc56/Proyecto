@@ -1,0 +1,19 @@
+.userinfo {
+  margin: 0;
+  padding: 0;
+  top: 0;
+  color: #84047e;
+  font-family: "Open Sans", sans-serif;
+  font-size: medium;
+  font-weight: bold;
+}
+
+.App-userinfo-actions {
+  margin: 4rem 0;
+  display: flex;
+  justify-content: center;
+}
+
+.App-userinfo-actions .action-button {
+  margin: 0 1rem;
+}
